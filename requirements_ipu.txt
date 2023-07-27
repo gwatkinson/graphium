@@ -15,7 +15,7 @@ s3fs >==2023.6.0
 gcsfs >==2023.6.0
 appdirs
 tensorboard
-torchmetrics >=0.7.0,<0.11
+torchmetrics
 hydra-core >==1.0
 ogb
 rdkit >==2020.09
